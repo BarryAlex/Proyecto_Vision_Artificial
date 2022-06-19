@@ -7,3 +7,5 @@ El detector está diseñado para leer códigos QR y abrir el link que contienen 
 En el caso en que lo que contenga no sea un link, imprimirá los datos leídos en la ventana de comandos.
 
 En caso de que sea una imagen, imprimirá la matriz de la que está compuesta dicha imagen en el terminal.
+
+Presione "esc" para cerrar el programa
